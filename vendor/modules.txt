@@ -99,6 +99,7 @@ golang.org/x/net/html/atom
 golang.org/x/net/html/charset
 golang.org/x/net/internal/socks
 golang.org/x/net/proxy
+golang.org/x/net/publicsuffix
 # golang.org/x/sys v0.0.0-20190606165138-5da285871e9c
 golang.org/x/sys/windows
 # golang.org/x/text v0.3.2
